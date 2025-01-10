@@ -1,0 +1,19 @@
+
+#div1{
+    color: rgb(245, 40, 29);
+    background-color: #ecf1b2;
+    border: 1px solid black;
+    height: 100px;
+    width: 300px;
+    margin:5px 5px 5px 5px;
+    padding: 10px 10px 10px 10px;
+}
+
+.dark{
+    background-color: "black";
+    color: "aliceblue";
+}
+.light{
+    background-color: "white";
+    color: "black";
+}
